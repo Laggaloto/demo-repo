@@ -1,0 +1,9 @@
+# don't upload secret.json
+secret.json
+
+#ignore all txt files
+*.txt
+#allow robots.txt
+!robots.txt
+#ignore build folder
+build/
