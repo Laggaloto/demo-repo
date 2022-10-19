@@ -14,7 +14,7 @@ filename = input("Adjon meg egy fájlnevet: ")
 
 files = {
     "txt" : 'ASCII text file.',
-	"doc" : 'Microsoft Word Document',
+	"doc" : 'MicrosofÚjra! t Word Document',
 	"xlsx" : 'Microsoft Excel Document',
 	"exe" : 'Windows x86 Executable',
 	"zip" : 'File Archive'
